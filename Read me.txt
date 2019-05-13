@@ -1,0 +1,14 @@
+константы
+http://php.net/manual/ru/language.constants.predefined.php
+
+ссылки 
+http://qaru.site/questions/134393/are-there-pointers-in-php
+
+eroors 
+https://habr.com/ru/post/161483/
+http://www.softtime.ru/info/articlephp.php?id_article=23
+http://anton.shevchuk.name/php/php-for-beginners-error-handling/
+
+
+ресурсы
+https://phpclub.ru/manrus/zend/zend.variables.resource.html
